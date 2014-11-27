@@ -10,7 +10,7 @@ using namespace std;
 #define _CMD_MULT 2
 #define _CANT_CMD 1 * _CMD_MULT
 
-#define ARG_RUTA_BASE_DATOS 0
+#define ARG_RUTA_BASE_DATOS 1
 
 const static _TCHAR listacmd[_CANT_CMD][20] = {
 	L"--ruta-base-datos", L"-b"
